@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center"> Olá! Me chamo Yasmin Belo </h1>
 
-<!--
-**beloyasmin/beloyasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Flutter Developer | Learning Python • Performance • Boas práticas</strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Sobre mim
+Sou desenvolvedora focada em **Flutter**, atualmente evoluindo minhas habilidades com **Python**, além de possuir conhecimentos em **HTML** e **CSS**.  
+Estou construindo meus primeiros projetos e buscando sempre aprender mais sobre **performance**, **boas práticas** e **arquitetura limpa**.
+
+---
+
+##  Tecnologias & Ferramentas
+
+### Principais
+- Flutter  
+- Dart  
+- Python
+
+###  Web (básico)
+- HTML  
+- CSS  
+
+### Ferramentas
+- Git & GitHub  
+- VS Code  
+- Android Studio
+- Jira
+
+---
+
+##  Estatísticas do GitHub
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YasminBelo&show_icons=true&theme=dracula" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminBelo&layout=compact&theme=dracula" />
+</p>
+
+---
+
+## Contato
+
+- ✉️ **Email:** beloyasmin93@gmail.com
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/yasmin-silva-356a311a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
