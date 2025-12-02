@@ -28,6 +28,7 @@ Estou construindo meus primeiros projetos e buscando sempre aprender mais sobre 
 - VS Code  
 - Android Studio
 - Jira
+- Power apps
 
 ---
 
