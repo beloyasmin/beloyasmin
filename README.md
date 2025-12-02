@@ -35,8 +35,9 @@ Estou construindo meus primeiros projetos e buscando sempre aprender mais sobre 
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=YasminBelo&show_icons=true&theme=dracula" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beloyasmin&layout=compact&theme=dracula" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminBelo&layout=compact&theme=dracula" />
 </p>
+
 
 ---
 
